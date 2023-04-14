@@ -1,6 +1,6 @@
 # E-Road
 
-This program finds the shortest path from one city to another. The program takes in network.txt, which contains a list of tuples indicating the connections between two cities.  
+This program finds the shortest path from one city to another. The program takes in network.txt, which contains a list of tuples indicating the connections between cities.  
 vertex_names.txt contains the names of the cities, with IDs matching those in network.txt.  
 vertex_locations.txt indicates the coordinates of each city in vertex_names.txt.
 
